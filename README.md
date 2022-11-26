@@ -4,8 +4,7 @@
 
 Talking about Personal Stuffs:
 
-- NickName: Lucky Panda ( Web + Blockchain Developer ). &nbsp; <img height="80" src="https://github.com/luckypanda777/Luckypanda777/blob/main/img/panda.png" />
-<br>
+- NickName: Lucky Panda ( Web + Blockchain Developer ). &nbsp; <br>
 <img align="right" width="350" src="https://github.com/luckypanda777/Luckypanda777/blob/main/img/image03.gif" />
 ##
 ##### Web / WebGL / Blockchain Solution <br>
