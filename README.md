@@ -4,9 +4,9 @@
 
 Talking about Personal Stuffs:
 
-- NickName: Lucky Panda ( Web + Blockchain Developer ). &nbsp; <img align="right" width="100" src="https://github.com/TortuC/TortuC/blob/master/img/hello.gif" />
+- NickName: Lucky Panda ( Web + Blockchain Developer ). &nbsp; <img align="right" height="80" src="https://github.com/luckypanda777/Luckypanda777/tree/main/img/panda.jpg" />
 <br>
-<img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
+<img align="right" width="350" src="https://github.com/luckypanda777/Luckypanda777/tree/main/img/image03.gif" />
 ##
 ##### Web / WebGL / Blockchain Solution <br>
 [ React.js | Angular | Vue.js | Laravel | Node.js | Express.js ] <br>
